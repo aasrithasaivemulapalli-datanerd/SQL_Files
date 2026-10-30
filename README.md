@@ -1,2 +1,2 @@
 # SQL_Files
-Storing all my sql files which i made used while learning
+I'm storing all the SQL files I've created while learning and practising SQL.
